@@ -8,7 +8,7 @@ contributor:
     - Billings
     - Billings, Charles Howland Hammatt
     birthdate: 1818
-    deathdate: &id001 1874
+    deathdate: 1874
     gutenberg_agent_id: '32150'
     url: http://www.gutenberg.org/2009/agents/32150
     wikipedia: http://en.wikipedia.org/wiki/Hammatt_Billings
@@ -19,11 +19,13 @@ creator:
   author:
     agent_name: Sumner, Charles
     birthdate: 1811
-    deathdate: *id001
+    deathdate: 1874
     gutenberg_agent_id: '1986'
     url: http://www.gutenberg.org/2009/agents/1986
     wikipedia: http://en.wikipedia.org/wiki/Charles_Sumner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35222#White-Slavery-in-the-Barbary-States
 gutenberg_issued: '2011-02-09'
 gutenberg_type: Text
 identifiers:
