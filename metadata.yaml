@@ -1,0 +1,40 @@
+_repo: White-Slavery-in-the-Barbary-States_35222
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Billings, Hammatt
+    aliases:
+    - Billings, Hammett
+    - Billings
+    - Billings, Charles Howland Hammatt
+    birthdate: 1818
+    deathdate: &id001 1874
+    gutenberg_agent_id: '32150'
+    url: http://www.gutenberg.org/2009/agents/32150
+    wikipedia: http://en.wikipedia.org/wiki/Hammatt_Billings
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sumner, Charles
+    birthdate: 1811
+    deathdate: *id001
+    gutenberg_agent_id: '1986'
+    url: http://www.gutenberg.org/2009/agents/1986
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Sumner
+description: ''
+gutenberg_issued: '2011-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35222'
+  lccn: '34007332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- Africa, North'
+- !lcc 'HT'
+title: White Slavery in the Barbary States
+url: http://www.gutenberg.org/ebooks/35222
